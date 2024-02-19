@@ -2,7 +2,9 @@ import React from 'react'
 
 function usersPage() {
   return (
-    <div>users page</div>
+    <div>
+      <h1>User details</h1>
+    </div>
   )
 }
 
